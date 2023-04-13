@@ -1,0 +1,5 @@
+C:\Users\ocord\Desktop\c#\NEA CODE\NEA - Projectile Motion\ContainerUserControl\obj\Debug\netcoreapp3.1\ContainerUserControl.csproj.AssemblyReference.cache
+C:\Users\ocord\Desktop\c#\NEA CODE\NEA - Projectile Motion\ContainerUserControl\obj\Debug\netcoreapp3.1\ContainerUserControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ocord\Desktop\c#\NEA CODE\NEA - Projectile Motion\ContainerUserControl\obj\Debug\netcoreapp3.1\ContainerUserControl.AssemblyInfoInputs.cache
+C:\Users\ocord\Desktop\c#\NEA CODE\NEA - Projectile Motion\ContainerUserControl\obj\Debug\netcoreapp3.1\ContainerUserControl.AssemblyInfo.cs
+C:\Users\ocord\Desktop\c#\NEA CODE\NEA - Projectile Motion\ContainerUserControl\obj\Debug\netcoreapp3.1\ContainerUserControl.csproj.CoreCompileInputs.cache
